@@ -6,6 +6,7 @@ Disclaimer: all Oak Security / Solidified audits are performed in teams of three
 
 ## Solidity
 [Solidified] [Xaya Demorit](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Mauve.pdf)
+
 [Solidified] [Xaya Democrit](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Xaya%20Democrit.pdf)
 
 ## Formal Verification
