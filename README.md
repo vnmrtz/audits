@@ -15,7 +15,7 @@ Disclaimer: all Oak Security / Solidified audits are performed in teams of three
 
 [Certora] [Aave Starknet Bridge](https://www.certora.com/wp-content/uploads/2022/10/Formal-Verification-Report-of-Aave-Starknet-Bridge-3.pdf)
 
-[Certora-C4] [Blockswap Formal Verification Contest](https://discord.com/channels/810916927919620096/1062430373038002226/1077313794553950250](https://github.com/Certora/2023-01-blockswap-fv/blob/certora/certora/specs/Syndicate.spec)
+[Certora-C4] [Blockswap Formal Verification Contest](https://github.com/Certora/2023-01-blockswap-fv/blob/certora/certora/specs/Syndicate.spec)
 - [Top 7]([https://twitter.com/vn_martinez_/status/1578288861683142656?s=20](https://discord.com/channels/810916927919620096/1062430373038002226/1077313794553950250)) on the contest under the nickname "Saintcode_" 
 - Rules on the certora spec ```// author: Elpacos```
 
