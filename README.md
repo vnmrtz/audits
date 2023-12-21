@@ -1,7 +1,7 @@
 # Audit Experience
 
 ## Overview
-Experienced security researcher & solidity white-hat with a robust two-year background in blockchain security. Started as a white-hat on Immunefi in late 2021, successfully addressing vulnerabilities in prominent protocols like AAVE and RAI (see Bug Bounties [section](#bounties), secured +33M USD live at risk. Current roles include Smart Contract Auditor at Oak Security/Solidified and EVM & Security Researcher at Turing Consulting. 
+Experienced security researcher & solidity white-hat with a robust two-year background in blockchain security. Started as a white-hat on Immunefi in late 2021, successfully addressing vulnerabilities in prominent protocols like AAVE and RAI (see [Bug Bounties section](#bounties)), securing +33M USD live at risk. Current roles include Smart Contract Auditor at Oak Security/Solidified and EVM & Security Researcher at Turing Consulting. 
 
 ## External Audits
 
