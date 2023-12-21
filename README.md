@@ -55,7 +55,7 @@ Experienced security researcher & solidity white-hat with a robust two-year back
 ### OpenDollar: Stablecoin
 - **Company:** C4 contest
 - **Link:** [Contest Page](https://code4rena.com/audits/2023-10-open-dollar#top)
-- **Reflection:** Identified a high-severity issue, ranked sixth in the contest.
+- **Reflection:** Despite my usual focus on bug bounties and security reviews, I came across a high-severity issue identified only by another warden. This finding earned a spot in the official report and achieved a noteworthy sixth place in the contest rankings.
 
 ### Sablier: v2-core & v2-periphery changelog audit
 - **Company:** Turing Consulting
