@@ -89,7 +89,7 @@ Experienced security researcher & solidity white-hat with a robust two-year back
 
 ### December 2023
 - **Protocol:** [CRITICAL] RAI (liquidations DOS, GEB framework zero day), non-pegged stable-coin
-- **Link:** [Tweet](https://x.com/vn_martinez_/status/1733242624117477790?s=20)
+- **Link:** [Disclosure](https://x.com/vn_martinez_/status/1733242624117477790?s=20)
 - **Reflection:** Discovered a critical bug in the GEB framework of the RAI stablecoin, securing +33M of TVL at risk.
 
 ## Public Content
