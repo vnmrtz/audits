@@ -6,9 +6,9 @@ Experienced security researcher & solidity white-hat with a robust two-year back
 ## External Audits
 
 ### Aave-token v3
-- **Company:** Certora, AAVE
-- **Link:** [GitHub](https://github.com/Elpacos/aave-token-v3/tree/certora-community), [Report](https://github.com/Certora/aave-token-v3/blob/main/certora/reports/Formal_Verification_Report_AAVE_Token_V3.pdf)
-- **Reflection:** Identified a high-severity issue, won first place in AAVE grant.
+- Company: Certora, AAVE
+- Link: [GitHub](https://github.com/Elpacos/aave-token-v3/tree/certora-community), [Report](https://github.com/Certora/aave-token-v3/blob/main/certora/reports/Formal_Verification_Report_AAVE_Token_V3.pdf)
+- Reflection: Identified a high-severity issue, won first place in AAVE grant.
 
 ### Aave-starknet: bridge
 - **Company:** Certora, AAVE
