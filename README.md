@@ -11,86 +11,86 @@ Experienced security researcher & solidity white-hat with a robust two-year back
 - Reflection: Identified a high-severity issue, won first place in AAVE grant.
 
 ### Aave-starknet: bridge
-- **Company:** Certora, AAVE
-- **Link:** [GitHub](https://github.com/Elpacos/aave-token-v3/tree/certora-community), [Report](https://github.com/aave-starknet-project/aave-starknet-bridge/blob/main/audit/certora_report.pdf)
-- **Reflection:** Implemented 18 formal rules, achieved sixth place in AAVE grant.
+- Company: Certora, AAVE
+- Link: [GitHub](https://github.com/Elpacos/aave-token-v3/tree/certora-community), [Report](https://github.com/aave-starknet-project/aave-starknet-bridge/blob/main/audit/certora_report.pdf)
+- Reflection: Implemented 18 formal rules, achieved sixth place in AAVE grant.
 
 ### Blockswap Formal Verification
-- **Company:** Certora
-- **Link:** [GitHub](https://github.com/Certora/2023-01-blockswap-fv/blob/certora/certora/specs/Syndicate.spec)
-- **Reflection:** Implemented 10 formal rules for Syndicate codebase.
+- Company: Certora
+- Link: [GitHub](https://github.com/Certora/2023-01-blockswap-fv/blob/certora/certora/specs/Syndicate.spec)
+- Reflection: Implemented 10 formal rules for Syndicate codebase.
 
 ### Mauve & Violet: uniswap v3 fork with KYC
-- **Company:** Oak Security/Solidified
-- **Link:** [Report](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Mauve.pdf)
+- Company: Oak Security/Solidified
+- Link: [Report](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Mauve.pdf)
 
 ### exit10: boostraping
-- **Company:** yAcademy
-- **Link:** [Report](https://reports.yaudit.dev/reports/04-2023-Exit10/)
+- Company: yAcademy
+- Link: [Report](https://reports.yaudit.dev/reports/04-2023-Exit10/)
 
 ### VMEX: AAVE v2 fork
-- **Company:** yAcademy
-- **Link:** [Report](https://reports.yaudit.dev/reports/06-2023-VMEX/)
-- **Reflection:** Found a unique high-severity issue.
+- Company: yAcademy
+- Link: [Report](https://reports.yaudit.dev/reports/06-2023-VMEX/)
+- Reflection: Found a unique high-severity issue.
 
 ### Xaya Democrit, Gaming rollup L1 contracts
-- **Company:** Oak Security/Solidified
-- **Link:** [Report](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Xaya%20Democrit.pdf)
+- Company: Oak Security/Solidified
+- Link: [Report](https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Xaya%20Democrit.pdf)
 
 ### MaxApy (Assembly gas optimisation): DeFI strategies aggregator
-- **Company:** Turing Consulting
-- **Link:** Report Not Public, [Website](https://goerli.maxapy.io/)
-- **Reflection:** Decreased gas costs up to 67% on main user functions.
+- Company: Turing Consulting
+- Link: Report Not Public, [Website](https://goerli.maxapy.io/)
+- Reflection: Decreased gas costs up to 67% on main user functions.
 
 ### Unlockd v2 (Gas optimisation): NFT borrowing and lending
-- **Company:** Turing Consulting
-- **Link:** Report Not Public, [Twitter](https://twitter.com/Unlockd_Finance), [GitHub](https://github.com/UnlockdFinance/unlockd)
-- **Reflection:** Reduced users' gas costs up to 36%.
+- Company: Turing Consulting
+- Link: Report Not Public, [Twitter](https://twitter.com/Unlockd_Finance), [GitHub](https://github.com/UnlockdFinance/unlockd)
+- Reflection: Reduced users' gas costs up to 36%.
 
 ### HAI: Stablecoin, RAI fork on Optimism
-- **Company:** Oak Security/Solidified
-- **Link:** Report Not Public Yet, [GitHub](https://github.com/hai-on-op/core), [Issue](https://x.com/DeFi_Wonderland/status/1733179127690059909?s=20)
-- **Reflection:** Found two unique high-severity issues.
+- Company: Oak Security/Solidified
+- Link: Report Not Public Yet, [GitHub](https://github.com/hai-on-op/core), [Issue](https://x.com/DeFi_Wonderland/status/1733179127690059909?s=20)
+- Reflection: Found two unique high-severity issues.
 
 ### OpenDollar: Stablecoin
-- **Company:** C4 contest
-- **Link:** [Contest Page](https://code4rena.com/audits/2023-10-open-dollar#top)
-- **Reflection:** Despite my usual focus on bug bounties and security reviews, I came across a high-severity issue identified only by another warden. This finding earned a spot in the official report and achieved a noteworthy sixth place in the contest rankings.
+- Company: C4 contest
+- Link: [Contest Page](https://code4rena.com/audits/2023-10-open-dollar#top)
+- Reflection: Despite my usual focus on bug bounties and security reviews, I came across a high-severity issue identified only by another warden. This finding earned a spot in the official report and achieved a noteworthy sixth place in the contest rankings.
 
 ### Sablier: v2-core & v2-periphery changelog audit
-- **Company:** Turing Consulting
-- **Link:** [GitHub](https://github.com/sablier-labs/audits/blob/main/v2-core/turing-2023-11-30.pdf), [GitHub](https://github.com/sablier-labs/audits/blob/main/v2-periphery/turing-2023-11-30.pdf)
+- Company: Turing Consulting
+- Link: [GitHub](https://github.com/sablier-labs/audits/blob/main/v2-core/turing-2023-11-30.pdf), [GitHub](https://github.com/sablier-labs/audits/blob/main/v2-periphery/turing-2023-11-30.pdf)
 
 ### Unhosted Wallet: AA wallet with defi integrations
-- **Company:** Independent Audit
-- **Link:** [GitHub](https://github.com/Unhosted-Wallet/unhosted-modules/blob/main/defi-strategies/audits/Unhosted_Wallet_Modules_Security_Review_Report_vnmrtz(final).pdf)
+- Company: Independent Audit
+- Link: [GitHub](https://github.com/Unhosted-Wallet/unhosted-modules/blob/main/defi-strategies/audits/Unhosted_Wallet_Modules_Security_Review_Report_vnmrtz(final).pdf)
 
 ### Unlockd (Continuous security engagement), NFT Lending and borrowing
-- **Company:** Turing Consulting
-- **Link:** [Twitter](https://twitter.com/Unlockd_Finance)
-- **Reflection:** Providing in-house security and consultancy services for the Unlockd Company.
+- Company: Turing Consulting
+- Link: [Twitter](https://twitter.com/Unlockd_Finance)
+- Reflection: Providing in-house security and consultancy services for the Unlockd Company.
 
 ## <a name="bounties">Bug Bounties</a>
 
 ### July 2022
-- **Protocol:** [HIGH] AAVE v3 token, DeFi Lending and Borrowing
-- **Link:** [Disclosure](https://x.com/vn_martinez_/status/1683505277818003458?s=20)
-- **Reflection:** Found a high-severity issue on the AAVE token, fixed by the AAVE team.
+- Protocol: [HIGH] AAVE v3 token, DeFi Lending and Borrowing
+- Link: [Disclosure](https://x.com/vn_martinez_/status/1683505277818003458?s=20)
+- Reflection: Found a high-severity issue on the AAVE token, fixed by the AAVE team.
 
 ### October 2023
-- **Protocol:** [HIGH] RAI (debt auctions bug), non-pegged stable-coin
-- **Link:** [Write-up](https://mirror.xyz/vnmrtz.eth/WXm4QJFInoB992czPniFbQyAkGUkdoaSd5zEjK5uRIo)
-- **Reflection:** Discovered a high-severity bug in RAI, leading to unintended overinflation.
+- Protocol: [HIGH] RAI (debt auctions bug), non-pegged stable-coin
+- Link: [Write-up](https://mirror.xyz/vnmrtz.eth/WXm4QJFInoB992czPniFbQyAkGUkdoaSd5zEjK5uRIo)
+- Reflection: Discovered a high-severity bug in RAI, leading to unintended overinflation.
 
 ### November 2023
-- **Protocol:** [HIGH] TAI (debt auctions bug), stablecoin
-- **Link:** Private, [Website](https://tai.money)
-- **Reflection:** Addressed the identified bug in the TAI Company.
+- Protocol: [HIGH] TAI (debt auctions bug), stablecoin
+- Link: Private, [Website](https://tai.money)
+- Reflection: Addressed the identified bug in the TAI Company.
 
 ### December 2023
-- **Protocol:** [CRITICAL] RAI (liquidations DOS, GEB framework zero day), non-pegged stable-coin
-- **Link:** [Disclosure](https://x.com/vn_martinez_/status/1733242624117477790?s=20)
-- **Reflection:** Discovered a critical bug in the GEB framework of the RAI stablecoin, securing +33M of TVL at risk.
+- Protocol: [CRITICAL] RAI (liquidations DOS, GEB framework zero day), non-pegged stable-coin
+- Link: [Disclosure](https://x.com/vn_martinez_/status/1733242624117477790?s=20)
+- Reflection: Discovered a critical bug in the GEB framework of the RAI stablecoin, securing +33M of TVL at risk.
 
 ## Public Content
 
