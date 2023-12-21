@@ -74,12 +74,12 @@ Experienced security researcher & solidity white-hat with a robust two-year back
 
 ### July 2022
 - **Protocol:** [HIGH] AAVE v3 token, DeFi Lending and Borrowing
-- **Link:** [Tweet](https://x.com/vn_martinez_/status/1683505277818003458?s=20)
+- **Link:** [Disclosure](https://x.com/vn_martinez_/status/1683505277818003458?s=20)
 - **Reflection:** Found a high-severity issue on the AAVE token, fixed by the AAVE team.
 
 ### October 2023
 - **Protocol:** [HIGH] RAI (debt auctions bug), non-pegged stable-coin
-- **Link:** [Mirror](https://mirror.xyz/vnmrtz.eth/WXm4QJFInoB992czPniFbQyAkGUkdoaSd5zEjK5uRIo)
+- **Link:** [Write-up](https://mirror.xyz/vnmrtz.eth/WXm4QJFInoB992czPniFbQyAkGUkdoaSd5zEjK5uRIo)
 - **Reflection:** Discovered a high-severity bug in RAI, leading to unintended overinflation.
 
 ### November 2023
