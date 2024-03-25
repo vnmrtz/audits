@@ -3,7 +3,7 @@
 ## Overview
 Experienced security researcher & solidity white-hat with a robust two-year background in blockchain security. Started as a white-hat on Immunefi in late 2021, successfully addressing vulnerabilities in prominent protocols like AAVE and RAI (see [Bug Bounties section](#bounties)), securing +33M USD live at risk. Current roles include Smart Contract Auditor at Oak Security/Solidified, ASR at Spearbit and Independent Security Researcher providing security services to top tier protocols. 
 
-Furthermore I have successfully collaborated with top tier protocols like Euler Finance and TapiocaDao implementing invariant testing suites for them:
+I have successfully collaborated with protocols like Euler Finance and TapiocaDao implementing invariant testing suites for their codebases:
 - https://www.euler.finance/blog/euler-and-spearbit-set-to-host-cryptos-largest-audit-competition, https://twitter.com/vn_martinez_/status/1771220621554303066?s=20
 - https://twitter.com/twMattt/status/1769560402206040413?s=20
 
