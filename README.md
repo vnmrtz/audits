@@ -69,11 +69,6 @@ I have successfully collaborated with protocols like Euler Finance and TapiocaDa
 - Company: Independent Audit
 - Link: [GitHub](https://github.com/Unhosted-Wallet/unhosted-modules/blob/main/defi-strategies/audits/Unhosted_Wallet_Modules_Security_Review_Report_vnmrtz(final).pdf)
 
-### Unlockd (Continuous security engagement), NFT Lending and borrowing
-- Company: Turing Consulting
-- Link: [Twitter](https://twitter.com/Unlockd_Finance)
-- Reflection: Providing in-house security and consultancy services for the Unlockd Company.
-
 ## <a name="bounties">Bug Bounties</a>
 
 ### July 2022
