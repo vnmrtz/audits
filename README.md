@@ -1,9 +1,9 @@
 # Audit Experience
 
 ## Overview
-Experienced security researcher & solidity white-hat with a robust three-year background in blockchain security. Started as a white-hat researcher in 2021, successfully addressing vulnerabilities in prominent protocols like AAVE and RAI (see [Bug Bounties section](#bounties)), securing +33M USD live at risk. Co-founder of the leading web3 security firm Enigma Dark as well as Lead Security Researcher and Main Fuzzing Engineer. Other roles include SR at Spearbit and Smart Contract Auditor at Oak Security/Solidified. 
+Experienced security researcher and Solidity white-hat with over three years of expertise in blockchain security. Started as a white-hat researcher in 2021, successfully addressing vulnerabilities in prominent protocols like AAVE and RAI, safeguarding over $33M in live assets at risk (see [Bug Bounties section](#bounties)). Co-founder of Enigma Dark, a leading Web3 security firm, serving as Lead Security Researcher and Main Fuzzing Engineer. Additional roles include Security Researcher at Spearbit and Smart Contract Auditor at Oak Security/Solidified.
 
-Involved in fuzz and invariant testing research, I have successfully collaborated with protocols like Euler Finance, AAVE, Silop Finance, Flower Money and TapiocaDao implementing invariant testing suites for their codebases:
+Involved in fuzz and invariant testing research, I have successfully collaborated with protocols like Euler Finance, AAVE, Silo Finance, Flower Money and TapiocaDao implementing invariant testing suites for their codebases:
 - https://www.euler.finance/blog/euler-and-spearbit-set-to-host-cryptos-largest-audit-competition, https://twitter.com/vn_martinez_/status/1771220621554303066?s=20
 - https://twitter.com/twMattt/status/1769560402206040413?s=20
 
