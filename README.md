@@ -171,7 +171,7 @@ TBD
 - Link: [Disclosure](https://x.com/vn_martinez_/status/1733242624117477790?s=20)
 - Reflection: Discovered a critical bug in the GEB framework of the RAI stablecoin, securing +33M of TVL at risk.
 
-# vnmrtz Formal Vefirication Reviews
+## vnmrtz Formal Vefirication Reviews
 
 ### Aave-token v3
 - Company: Certora, AAVE
@@ -192,7 +192,7 @@ TBD
 - Link: [GitHub](https://github.com/Certora/2023-01-blockswap-fv/blob/certora/certora/specs/Syndicate.spec)
 - Reflection: Implemented 10 formal rules for Syndicate codebase.
 
-# vnmrtz Misc Security Reviews
+## vnmrtz Miscellaneous Security Reviews
 
 ### OpenDollar
 - Company: C4 contest
