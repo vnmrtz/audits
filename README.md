@@ -1,4 +1,6 @@
-# Audit Experience
+# Audit Experience 
+
+> **Note:** This page reflects work through 2023 and is no longer actively maintained. For more recent engagements and projects, please reach out directly or visit [enigmadark.com](https://enigmadark.com).
 
 ## About vnmrtz
 vnmrtz is an experienced security researcher and the Co-Founder and Lead Security Researcher at Enigma Dark, where they lead efforts in smart contract security for protocols such as Euler Finance, Aave, Silo Finance, Flower Money, and TapiocaDAO. vnmrtz specializes in smart contract auditing fuzz testing, and invariant testing, improving the security of decentralized EVM-based smart contract systems.
